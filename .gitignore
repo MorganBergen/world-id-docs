@@ -44,3 +44,5 @@ next-env.d.ts
 # next-sitemap
 public/robots.txt
 public/sitemap*.xml
+package.json
+package.json
